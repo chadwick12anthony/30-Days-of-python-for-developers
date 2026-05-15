@@ -10,10 +10,16 @@ For the next 30 Days, learn the fundamentals of Python. We created this series a
 What you can do with Python is nearly endless:
 
 Run powerful web applications
+
 Fly drones and launch rockets
+
 Run autonomous robots like drones and self-driving cars
+
 Build connected systems with Arduino and Raspberry PI
+
 Automate business intelligences and perform financial analysis
+
 Machine learning including deep learning
+
 And many more ways
 That list is fancy but don't let it scare you. Python is just a tool for writing a series of step-by-step automation rules and that's exactly what software is: a collection of rules for a computer to follow.
